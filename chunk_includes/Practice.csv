@@ -1,0 +1,3 @@
+Item,Type,Comb,Cond,Gender,Order,T.Color,T.Object,Screen,T.Pos,Cor.Ans,Truth,Ger.Col,Ger.Ref,Ger.Dir,Ger.Wrong,Sentence,CorKey,Crit1,Crit2
+0,PRA,NO,HR,N,pre,green,Cloud,Practice1.png,Pos2,RIGHT,TRUE,blau,Quadrat,rechts,links,"Das blau dargestellte Quadrat ist rechts.",D,2,4
+0,PRA,NO,LR,N,pre,green,Cloud,Practice2.png,Pos2,RIGHT,FALSE,blau,Quadrat,rechts,links,"Das Trapez, das rot dargestellt ist, ist unten.",K,2,4

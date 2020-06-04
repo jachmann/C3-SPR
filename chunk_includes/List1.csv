@@ -1,0 +1,49 @@
+Item,Type,Comb,Cond,Gender,Order,T.Color,T.Object,Screen,T.Pos,Cor.Ans,Truth,Ger.Col,Ger.Ref,Ger.Dir,Ger.Wrong,Sentence,CorKey,Crit1,Crit2
+33,FIL,ADF,MS,M,pre,red,Boot,Filler_63_pre_MS.png,Pos3,RIGHT,TRUE,rot,Stiefel,rechts,links,"Der rot dargestellte Stiefel ist rechts.",D,2,4
+30,EXP,DEA,HR,M,pre,red,Hat,Item_30_pre_HR.png,Pos3,RIGHT,FALSE,rot,Hut,rechts,links,"Der rot dargestellte Hut ist links.",K,2,4
+31,EXP,FGA,HR,M,post,green,Moon,Item_31_post_HR.png,Pos1,UP,FALSE,grün,Mond,oben,unten,"Der Mond, der grün dargestellt ist, ist unten.",K,2,4
+46,EXP,GHE,LR,M,pre,green,Table,Item_46_pre_LR.png,Pos2,UP,FALSE,grün,Tisch,oben,unten,"Der grün dargestellte Tisch ist unten.",K,2,4
+45,FIL,GBC,MS,M,pre,red,Table,Filler_51_pre_MS.png,Pos6,DOWN,TRUE,rot,Tisch,unten,oben,"Der rot dargestellte Tisch ist unten.",D,2,4
+31,FIL,FHB,HR,M,pre,green,Moon,Filler_55_pre_HR.png,Pos8,LEFT,TRUE,grün,Mond,links,rechts,"Der grün dargestellte Mond ist links.",D,2,4
+34,FIL,BCG,LR,M,post,green,Fish,Filler_49_post_LR.png,Pos7,LEFT,TRUE,grün,Fisch,links,rechts,"Der Fisch, der grün dargestellt ist, ist links.",D,2,4
+42,EXP,HCF,HR,M,pre,red,Tree,Item_42_pre_HR.png,Pos1,UP,FALSE,rot,Baum,oben,unten,"Der rot dargestellte Baum ist unten.",K,2,4
+28,EXP,EAD,LR,M,pre,green,Mitt,Item_28_pre_LR.png,Pos6,DOWN,FALSE,grün,Handschuh,unten,oben,"Der grün dargestellte Handschuh ist oben.",K,2,4
+38,EXP,EBH,MS,M,pre,blue,Mitt,Item_38_pre_MS.png,Pos2,UP,FALSE,blau,Handschuh,oben,unten,"Der blau dargestellte Handschuh ist unten.",K,2,4
+30,FIL,DHG,HR,M,post,red,Hat,Filler_66_post_HR.png,Pos5,DOWN,TRUE,rot,Hut,unten,oben,"Der Hut, der rot dargestellt ist, ist unten.",D,2,4
+44,EXP,CGD,MS,M,pre,blue,Flash,Item_44_pre_MS.png,Pos5,DOWN,FALSE,blau,Blitz,unten,oben,"Der blau dargestellte Blitz ist oben.",K,2,4
+34,EXP,BDF,LR,M,pre,green,Fish,Item_34_pre_LR.png,Pos5,DOWN,FALSE,grün,Fisch,unten,oben,"Der grün dargestellte Fisch ist oben.",K,2,4
+47,EXP,HEG,LR,M,post,blue,Tree,Item_47_post_LR.png,Pos4,RIGHT,FALSE,blau,Baum,rechts,links,"Der Baum, der blau dargestellt ist, ist links.",K,2,4
+44,FIL,CGB,MS,M,post,blue,Flash,Filler_50_post_MS.png,Pos6,DOWN,TRUE,blau,Blitz,unten,oben,"Der Blitz, der blau dargestellt ist, ist unten.",D,2,4
+36,EXP,FBD,HR,M,pre,red,Moon,Item_36_pre_HR.png,Pos3,RIGHT,FALSE,rot,Mond,rechts,links,"Der rot dargestellte Mond ist links.",K,2,4
+47,FIL,HBF,LR,M,pre,blue,Tree,Filler_56_pre_LR.png,Pos6,DOWN,TRUE,blau,Baum,unten,oben,"Der blau dargestellte Baum ist unten.",D,2,4
+27,EXP,CAB,MS,M,post,red,Flash,Item_27_post_MS.png,Pos1,UP,FALSE,rot,Blitz,oben,unten,"Der Blitz, der rot dargestellt ist, ist unten.",K,2,4
+37,FIL,HGD,HR,M,pre,green,Tree,Filler_64_pre_HR.png,Pos7,LEFT,TRUE,grün,Baum,links,rechts,"Der grün dargestellte Baum ist links.",D,2,4
+45,EXP,GDC,MS,M,post,red,Table,Item_45_post_MS.png,Pos2,UP,FALSE,rot,Tisch,oben,unten,"Der Tisch, der rot dargestellt ist, ist unten.",K,2,4
+46,FIL,GEF,LR,M,post,green,Table,Filler_70_post_LR.png,Pos4,RIGHT,TRUE,grün,Tisch,rechts,links,"Der Tisch, der grün dargestellt ist, ist rechts.",D,2,4
+43,EXP,DCG,HR,M,post,green,Hat,Item_43_post_HR.png,Pos3,RIGHT,FALSE,grün,Hut,rechts,links,"Der Hut, der grün dargestellt ist, ist links.",K,2,4
+29,FIL,AHC,LR,M,pre,blue,Boot,Filler_59_pre_LR.png,Pos6,DOWN,TRUE,blau,Stiefel,unten,oben,"Der blau dargestellte Stiefel ist unten.",D,2,4
+36,FIL,FGE,HR,M,post,red,Moon,Filler_72_post_HR.png,Pos1,UP,TRUE,rot,Mond,oben,unten,"Der Mond, der rot dargestellt ist, ist oben.",D,2,4
+40,EXP,CFH,LR,M,pre,green,Flash,Item_40_pre_LR.png,Pos8,LEFT,FALSE,grün,Blitz,links,rechts,"Der grün dargestellte Blitz ist rechts.",K,2,4
+32,EXP,GAF,MS,M,pre,blue,Table,Item_32_pre_MS.png,Pos7,LEFT,FALSE,blau,Tisch,links,rechts,"Der blau dargestellte Tisch ist rechts.",K,2,4
+27,FIL,CED,MS,M,pre,red,Flash,Filler_69_pre_MS.png,Pos6,DOWN,TRUE,rot,Blitz,unten,oben,"Der rot dargestellte Blitz ist unten.",D,2,4
+42,FIL,HCA,HR,M,post,red,Tree,Filler_60_post_HR.png,Pos7,LEFT,TRUE,rot,Baum,links,rechts,"Der Baum, der rot dargestellt ist, ist links.",D,2,4
+28,FIL,EDC,LR,M,post,green,Mitt,Filler_67_post_LR.png,Pos3,RIGHT,TRUE,grün,Handschuh,rechts,links,"Der Handschuh, der grün dargestellt ist, ist rechts.",D,2,4
+33,EXP,AFG,MS,M,post,red,Boot,Item_33_post_MS.png,Pos8,LEFT,FALSE,rot,Stiefel,links,rechts,"Der Stiefel, der rot dargestellt ist, ist rechts.",K,2,4
+35,FIL,DCE,LR,M,pre,blue,Hat,Filler_68_pre_LR.png,Pos4,RIGHT,TRUE,blau,Hut,rechts,links,"Der blau dargestellte Hut ist rechts.",D,2,4
+48,FIL,EAB,HR,M,post,red,Mitt,Filler_54_post_HR.png,Pos3,RIGHT,TRUE,rot,Handschuh,rechts,links,"Der Handschuh, der rot dargestellt ist, ist rechts.",D,2,4
+26,FIL,BEA,MS,M,post,blue,Fish,Filler_53_post_MS.png,Pos6,DOWN,TRUE,blau,Fisch,unten,oben,"Der Fisch, der blau dargestellt ist, ist unten.",D,2,4
+26,EXP,BCA,MS,M,pre,blue,Fish,Item_26_pre_MS.png,Pos4,RIGHT,FALSE,blau,Fisch,rechts,links,"Der blau dargestellte Fisch ist links.",K,2,4
+40,FIL,CAH,LR,M,post,green,Flash,Filler_58_post_LR.png,Pos2,UP,TRUE,grün,Blitz,oben,unten,"Der Blitz, der grün dargestellt ist, ist oben.",D,2,4
+39,FIL,BFH,MS,M,pre,red,Fish,Filler_57_pre_MS.png,Pos3,RIGHT,TRUE,rot,Fisch,rechts,links,"Der rot dargestellte Fisch ist rechts.",D,2,4
+32,FIL,GDH,MS,M,post,blue,Table,Filler_65_post_MS.png,Pos3,RIGHT,TRUE,blau,Tisch,rechts,links,"Der Tisch, der blau dargestellt ist, ist rechts.",D,2,4
+29,EXP,ADE,LR,M,post,blue,Boot,Item_29_post_LR.png,Pos5,DOWN,FALSE,blau,Stiefel,unten,oben,"Der Stiefel, der blau dargestellt ist, ist oben.",K,2,4
+25,EXP,ABC,HR,M,post,green,Boot,Item_25_post_HR.png,Pos8,LEFT,FALSE,grün,Stiefel,links,rechts,"Der Stiefel, der grün dargestellt ist, ist rechts.",K,2,4
+41,FIL,FAD,LR,M,pre,blue,Moon,Filler_62_pre_LR.png,Pos7,LEFT,TRUE,blau,Mond,links,rechts,"Der blau dargestellte Mond ist links.",D,2,4
+25,FIL,ABE,HR,M,pre,green,Boot,Filler_52_pre_HR.png,Pos6,DOWN,TRUE,grün,Stiefel,unten,oben,"Der grün dargestellte Stiefel ist unten.",D,2,4
+43,FIL,DFA,HR,M,pre,green,Hat,Filler_61_pre_HR.png,Pos7,LEFT,TRUE,grün,Hut,links,rechts,"Der grün dargestellte Hut ist links.",D,2,4
+35,EXP,DFB,LR,M,post,blue,Hat,Item_35_post_LR.png,Pos2,UP,FALSE,blau,Hut,oben,unten,"Der Hut, der blau dargestellt ist, ist unten.",K,2,4
+39,EXP,BHE,MS,M,post,red,Fish,Item_39_post_MS.png,Pos6,DOWN,FALSE,rot,Fisch,unten,oben,"Der Fisch, der rot dargestellt ist, ist oben.",K,2,4
+38,FIL,EFG,MS,M,post,blue,Mitt,Filler_71_post_MS.png,Pos8,LEFT,TRUE,blau,Handschuh,links,rechts,"Der Handschuh, der blau dargestellt ist, ist links.",D,2,4
+48,EXP,EGH,HR,M,pre,red,Mitt,Item_48_pre_HR.png,Pos5,DOWN,FALSE,rot,Handschuh,unten,oben,"Der rot dargestellte Handschuh ist oben.",K,2,4
+41,EXP,FHC,LR,M,post,blue,Moon,Item_41_post_LR.png,Pos6,DOWN,FALSE,blau,Mond,unten,oben,"Der Mond, der blau dargestellt ist, ist oben.",K,2,4
+37,EXP,HEB,HR,M,post,green,Tree,Item_37_post_HR.png,Pos3,RIGHT,FALSE,grün,Baum,rechts,links,"Der Baum, der grün dargestellt ist, ist links.",K,2,4
